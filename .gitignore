@@ -1,0 +1,8 @@
+/.idea/
+/node_modules/
+/.env
+/package.json
+/package-lock.json
+/test-schema.ts
+/treasury-bot.iml
+/tsconfig.json
